@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subhojit97.github.io/static/css/main.221d7025.css",
+    "main.js": "/subhojit97.github.io/static/js/main.b84ced17.js",
+    "static/js/787.2843ca88.chunk.js": "/subhojit97.github.io/static/js/787.2843ca88.chunk.js",
+    "index.html": "/subhojit97.github.io/index.html",
+    "main.221d7025.css.map": "/subhojit97.github.io/static/css/main.221d7025.css.map",
+    "main.b84ced17.js.map": "/subhojit97.github.io/static/js/main.b84ced17.js.map",
+    "787.2843ca88.chunk.js.map": "/subhojit97.github.io/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221d7025.css",
+    "static/js/main.b84ced17.js"
+  ]
+}
